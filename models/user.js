@@ -10,9 +10,9 @@ const userSchema = new Schema(
             trim: true,
 
         },
-        email: {
-            type: String,
-        },
+        // email: {
+        //     type: String,
+        // },
 
         thoughts: {
             type: Schema.Types.ObjectId,

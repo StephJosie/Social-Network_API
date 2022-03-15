@@ -1,7 +1,7 @@
 const { Thought, User } = require('../models');
-const thoughtData = require('./postData.json');
+const thoughtData = require('./thoughtData.json');
 const userData = require('./userData.json');
-
+const db = require("../config/connection")
 
 db.once('open', async () => {
     await Thought.deleteMany({});

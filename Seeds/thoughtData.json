@@ -1,19 +1,16 @@
 [
     {
         "text": "I love dogs, especially rescue pits!",
-        "date": "{timestamp}",
         "username": "PittieMom",
         "reaction": "{reactionCount}"
     },
     {
         "text": "I collect varigated plants!",
-        "date": "{timestamp}",
         "username": "PlantCollector",
         "reaction": "{reactionCount}"
     },
     {
         "text": "Photography is great!",
-        "date": "{timestamp}",
         "username": "PicturePeople",
         "reaction": "{reactionCount}"
     }
